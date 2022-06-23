@@ -5,7 +5,7 @@
 - 💬 I'm looking for help wih:
 - ❔  Ask me about: 
 - ⚡ Fun fact about me:
-- 📫 How to reach me: You can contact me at (jedwards11236@gmail.com "Gmail") or (https://www.linkedin.com/in/jay-edwards-35044a22a/ "LinkedIn")
+- 📫 How to reach me: You can contact me at [jedwards11236@gmail.com "Gmail"] or [https://www.linkedin.com/in/jay-edwards-35044a22a/ "LinkedIn"]
 
 <!---
 JayEdwards-QuantLead/JayEdwards-QuantLead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
