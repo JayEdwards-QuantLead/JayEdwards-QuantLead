@@ -2,7 +2,10 @@
 - 👀 I’m interested in data science, business intelligence and anything finance related.
 - 🌱 I’m currently learning statistical arbitrage, predictive analytics, and stochastic optimization.
 - 💞️ I’m looking to collaborate on complex adaptive risk and portfolio engineering projects.
-- 📫 How to reach me: You can contact me at jedwards11236@gmail.com or https://www.linkedin.com/in/jay-edwards-35044a22a/
+- 💬 I'm looking for help wih:
+- ❔  Ask me about: 
+- ⚡ Fun fact about me:
+- 📫 How to reach me: You can contact me at (jedwards11236@gmail.com "Gmail") or (https://www.linkedin.com/in/jay-edwards-35044a22a/ "LinkedIn")
 
 <!---
 JayEdwards-QuantLead/JayEdwards-QuantLead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
